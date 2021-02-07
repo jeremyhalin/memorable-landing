@@ -122,4 +122,7 @@ collections:
 # Markdown rendering
 markdown: kramdown
 
+plugins:
+  - jekyll-multiple-languages-plugin
+
 languages: ["en", "fr"]
