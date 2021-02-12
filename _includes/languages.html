@@ -1,3 +1,12 @@
-{% for language in site.data.languages %}
-<a href="{{ site.base_url }}/{{language.slug}}">{{language.name}}</a>
-{% endfor %}
+<div class="languages">
+  {% for language in site.data.languages %}
+  <a
+    class="language-link {% if language.slug == page.lang or (language.slug == '/' and page.lang == 'en') %}active{% endif %}"
+    href="{{ site.base_url }}/{{language.slug}}"
+    lang="{{ language.slug }}"
+    hreflang="{{ language.slug }}"
+    target="_self"
+    >{{language.name}} {{page.lang}} {{language.slug}}
+  </a>
+  {% endfor %}
+</div>

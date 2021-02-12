@@ -1,5 +1,7 @@
 - name: English
   slug:
+  iso: en-US
 
 - name: Français
   slug: fr
+  iso: fr-FR

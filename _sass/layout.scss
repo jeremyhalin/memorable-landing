@@ -204,6 +204,27 @@ nav > ul li a:active {
   color: rgba($header-title-color, 1);
 }
 
+// Language link
+.languages {
+  display: flex;
+  margin-bottom: 4rem;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.3;
+
+  .language-link {
+    color: white;
+    padding: 1rem;
+    display: inline-flex;
+    margin: 0 1rem 0 1rem;
+
+    &.active {
+      text-decoration: underline;
+    }
+  }
+}
+
 // Sub Page Header Styling
 .subPageHeaderBackground .logo > a {
   color: #000;

@@ -2,42 +2,42 @@ description: Devinez le film à partir de la citation.
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: Français
+  - title: Films ou séries
     description: Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name: magic
+    fontawesome_icon_name: film
 
-  - title: iPhone Device Preview
+  - title: Souvenirs
     description: Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name: mobile
+    fontawesome_icon_name: heart
 
-  - title: Video Support
+  - title: Plus de 500 répliques !
     description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name: play-circle
+    fontawesome_icon_name: quote-right
 
-  - title: Automatic Icon and Metadata
+  - title: Classement
     description: Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name: sync
+    fontawesome_icon_name: trophy
 
-  - title: Easy to Tweak
+  - title: Continuez sur n'importe quel appareil
     description: Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: adjust
+    fontawesome_icon_name: mobile-alt
 
-  - title: Feature List
+  - title: Constamment mise à jour
     description: Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name: wrench
+
+  - title: Découvrez ou redécouvrez des films cultes
+    description: Display a smart app banner on iOS devices.
     fontawesome_icon_name: star
 
-  - title: Smart App Banner
+  - title: Disponible dans plusieurs langues
     description: Display a smart app banner on iOS devices.
-    fontawesome_icon_name: arrow-alt-circle-down
+    fontawesome_icon_name: language
 
-  - title: Social Links
-    description: Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: link
+  - title: Indices
+    description: Display a smart app banner on iOS devices.
+    fontawesome_icon_name: search
 
-  - title: FontAwesome Support
-    description: Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: info-circle
-
-  - title: # New Feature Title
-    description: # New Feature Description
-    fontawesome_icon_name: # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title: Plutôt VO ?
+    description: Display a smart app banner on iOS devices.
+    fontawesome_icon_name: language

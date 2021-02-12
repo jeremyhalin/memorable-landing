@@ -9,10 +9,6 @@ lang: fr
 
 Bientôt...
 
-{{ site.pages | inspect }}
-
-{{ site.collections | inpsect }}
-
 <!--
 <br>
 
