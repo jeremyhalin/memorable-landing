@@ -65,12 +65,12 @@
             </div>
             <div class="appDescriptionContainer">
               <p class="appDescription">
-                {{ site.data.translations[page.lang].test }}
-                <!-- {{ site.app_description }} -->
+                {{ site.data.translations[page.lang].description }}
               </p>
             </div>
             <div class="downloadButtonsContainer">
-              {% if site.playstore_link %}
+              {% include badges/{{page.lang}}.html %}
+              <!-- {% if site.playstore_link %}
               <a class="playStoreLink" href="{{site.playstore_link}}"
                 ><img class="playStore" src="assets/playstore.png"
               /></a>
@@ -78,11 +78,12 @@
               <a class="appStoreLink" href="{{site.appstore_link}}"
                 ><img class="appStore" src="assets/appstore.png"
               /></a>
-              {% endif %}
+              {% endif %} -->
             </div>
           </div>
-          {% include features.html %} {% include footer.html %} {% include
-          appstoreimages.html %}
+
+          {% include features.html lang=page.lang %} {% include footer.html %}
+          {% include appstoreimages.html %} {% include languages.html %}
         </div>
       </div>
     </div>
