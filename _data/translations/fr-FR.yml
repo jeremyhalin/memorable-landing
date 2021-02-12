@@ -1,0 +1,51 @@
+description: Devinez le film à partir de la citation.
+
+# Feature List                            Edit, add or remove features to be presented.
+features:
+  - title: Films ou séries
+    description: Vous êtes plutôt cinéphile ou binge watcher ? Peu importe, vous aurez le choix entre films et séries !
+    fontawesome_icon_name: film
+
+  - title: Souvenirs
+    description: Parfois une simple réplique peu nous rappeler un film ou une série. Ce passage que vous aimez tant, ou la personne avec qui vous l'avez vu.
+    fontawesome_icon_name: heart
+
+  - title: Plus de 500 répliques !
+    description: Le nombre de répliques est infini, nous continuerons d'ajouter les répliques cultes des nouveaux films cultes à leurs sorties.
+    fontawesome_icon_name: quote-right
+
+  - title: Classement
+    description: Comparez votre score à celui des autres joueur·se·s, devenez celui ou celle qui trouvera le plus de références.
+    fontawesome_icon_name: trophy
+
+  - title: Continuez sur n'importe quel appareil
+    description: Votre progression est sauvegardée et vous pourrez la reprendre depuis n'importe quel appareil Android compatible.
+    fontawesome_icon_name: mobile-alt
+
+  - title: Constamment mise à jour
+    description: L'application est fréquemment mise à jour suivant vos retours et expériences. Nous accordons un point d'honneur à ce que votre expérience de jeu soit la plus agréable possible.
+    fontawesome_icon_name: wrench
+
+  - title: Découvrez ou redécouvrez des films cultes
+    description: Vous vous souvenez de ce film que vous aviez adoré ? Non ? Maintenant oui grâce à cette fameuse réplique que vous aviez oublié.
+    fontawesome_icon_name: star
+
+  - title: Disponible dans plusieurs langues
+    description: Français ou anglais, l'application s'adapte à votre langue pour vous proposer des films & séries populaires dans votre pays.
+    fontawesome_icon_name: language
+
+  - title: Indices
+    description: Besoin d'aide ? Les indices sont là pour ça, ils vous aideront à passer les niveaux plus difficiles ou simplement les films & séries que vous n'avez jamais vu.
+    fontawesome_icon_name: search
+
+  - title: Plutôt VO ?
+    description: Display a smart app banner on iOS devices.
+    fontawesome_icon_name: language
+
+  - title: Culture cinématographique
+    description: Cette réplique ne vous dit absolument rien ? Il serait peut-être temps de regarder ce film que tout le monde connaît sauf vous.
+    fontawesome_icon_name: ticket-alt
+
+  - title: Participer
+    description: "Vous pouvez participer au développement du jeu: proposer des niveaux, suggérer des modifications, apporter vos idées. N'hésitez pas !"
+    fontawesome_icon_name: handshake

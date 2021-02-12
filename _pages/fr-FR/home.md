@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Bonjour
-lang: fr
+lang: fr-FR
 permalink: /fr
 ---

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang }}">
+<html lang="{{ page.lang }}">
   {% include head.html %}
 
   <body>
@@ -82,8 +82,8 @@
             </div>
           </div>
 
-          {% include features.html lang=page.lang %} {% include footer.html %}
-          {% include appstoreimages.html %}
+          {% include features.html lang=page.lang %} {% include footer.html
+          lang=page.lang %} {% include appstoreimages.html %}
         </div>
       </div>
     </div>

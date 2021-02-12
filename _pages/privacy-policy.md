@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 include_in_header: false
-lang: en
+lang: en-US
 ---
 
 **Last updated**  

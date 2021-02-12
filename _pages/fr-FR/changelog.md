@@ -2,7 +2,7 @@
 layout: page
 title: Quoi de neuf ?
 include_in_header: true
-lang: fr
+lang: fr-FR
 ---
 
 # Mises à jour
