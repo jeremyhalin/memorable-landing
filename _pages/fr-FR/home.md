@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bonjour
+title: Répliques de films & séries cultes
 lang: fr-FR
-permalink: /fr
+permalink: /fr-FR
 ---

@@ -14,7 +14,7 @@
         </defs>
       </svg>
       {% if page.url != '/' %}
-      <a href="../" target="_self"
+      <a href="{{ site.base_url }}/{{ page.lang }}" target="_self"
         ><img class="headerIcon" src="{{ site.app_icon | relative_url }}"
       /></a>
       {% else %}
@@ -22,7 +22,10 @@
       {% endif %}
       <div class="divider"></div>
     </div>
-    <a class="headerName" href="{{ site.base_url }}/{{ page.lang }}"
+    <a
+      class="headerName"
+      href="{{ site.base_url }}/{{ page.lang }}"
+      target="_self"
       >{{ site.app_name }}</a
     >
   </div>
