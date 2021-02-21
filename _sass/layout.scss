@@ -461,6 +461,7 @@ nav > ul li a:active {
   flex-grow: 1;
   flex-wrap: wrap;
   margin-top: 93px;
+  margin-bottom: 93px;
 }
 
 .feature {
@@ -609,10 +610,14 @@ footer {
   display: flex;
   text-align: center;
   padding-bottom: 70px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .footerLinks a {
   margin-right: 30px;
+  margin-bottom: 30px;
+  text-decoration: underline;
 }
 
 .footerLinks a:last-child {
