@@ -14,20 +14,33 @@
         </defs>
       </svg>
       {% if page.url != '/' %}
-      <a href="{{ site.base_url }}/{{ page.lang }}" target="_self"
-        ><img class="headerIcon" src="{{ site.app_icon | relative_url }}"
-      /></a>
+        {% if page.lang == 'en-US' %}
+          <a href="{{ site.url }}" target="_self"
+          ><img class="headerIcon" src="{{ site.app_icon | relative_url }}"
+          /></a>
+        {% else %}
+          <a href="{{ site.url }}/{{ page.lang }}" target="_self"
+          ><img class="headerIcon" src="{{ site.app_icon | relative_url }}"
+          /></a>
+        {% endif %}
       {% else %}
-      <img class="headerIcon" src="{{ site.app_icon | relative_url }}" />
+        <img class="headerIcon" src="{{ site.app_icon | relative_url }}" />
       {% endif %}
       <div class="divider"></div>
     </div>
-    <a
-      class="headerName"
-      href="{{ site.base_url }}/{{ page.lang }}"
-      target="_self"
-      >{{ site.app_name }}</a
-    >
+
+
+    {% if page.lang == 'en-US' %}
+      <a class="headerName"
+         href="{{ site.url }}"
+         target="_self"
+      >{{ site.app_name }}</a>
+    {% else %}
+      <a class="headerName"
+         href="{{ site.url }}/{{ page.lang }}"
+         target="_self"
+      >{{ site.app_name }}</a>
+    {% endif %}
   </div>
   <nav class="scroll">
     <ul>

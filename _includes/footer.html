@@ -38,12 +38,20 @@
     {% endif %}
   </div> -->
   <div class="footerLinks">
-    lang={{ lang }} {% if lang == null %} {% assign pages = site.pages | where:
-    "lang", 'en-US' %} {% else %} {% assign pages = site.pages | where: "lang",
-    lang %} {% endif %} {% for page in pages %}
-    <a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
-    {% endfor %} {% if site.presskit_download_link %}
-    <a href="{{ site.presskit_download_link }}">Press Kit</a>
+    {% if page.lang == null %}
+      {% assign pages = site.pages | where: "lang", 'en-US' %}
+    {% else %}
+      {% assign pages = site.pages | where: "lang", page.lang %}
+    {% endif %}
+
+    {% for page in pages %}
+      {% if page.url != '/{{page.lang}}' %}
+        <a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if site.presskit_download_link %}
+      <a href="{{ site.presskit_download_link }}">Press Kit</a>
     {% endif %}
   </div>
   {% include languages.html %}
