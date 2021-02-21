@@ -6,134 +6,85 @@ lang: en-US
 ---
 
 **Last updated**  
-February 6 2020
+February 21 2020
 
-**Privacy policy**
+# Privacy Policy
 
-**1. Introduction**
+Jérémy Halin built the Memorable app as an Ad Supported app. This SERVICE is provided by Jérémy Halin at no cost and is intended for use as is.
 
-1.1 We are committed to safeguarding the privacy of our users.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-1.2 This policy applies where we are acting as a data controller with respect to the personal data of such persons; in other words, where we determine the purposes and means of the processing of that personal data.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-1.3 Our application incorporates privacy controls which affect how we will process your personal data. By using the privacy controls, you can specify whether you would like to see personalized ads or not, receive push notifications and limit the collection, sharing and publication of your personal data. You can access the privacy controls via the application&#39;s settings.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Memorable unless otherwise defined in this Privacy Policy.
 
-1.4 In this policy, &quot;we&quot;, &quot;us&quot; and &quot;our&quot; refer to Memorable. For more information about us, see Section 14.
 
-**2. Credit**
+# Information Collection and Use
 
-2.1 This document was created using a template from Docular ([https://seqlegal.com/free-legal-documents/privacy-policy](https://seqlegal.com/free-legal-documents/privacy-policy)).
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to email and username. The information that I request will be retained on your device and is not collected by me in any way.
 
-**3. The personal data that we collect**
+The app does use third party services that may collect information used to identify you.
 
-3.1 In this Section 3 we have set out the general categories of personal data that we process and, in the case of personal data that we did not obtain directly from you, information about the source and specific categories of that data.
+Link to privacy policy of third party service providers used by the app
 
-3.2 We may process data enabling us to get in touch with you (&quot; **contact data**&quot;). The contact data may include your email address and social media account identifiers. The source of the contact data is you. If you log into our website using a social media account, we will obtain elements of the contact data from the relevant social media account provider.
 
-3.3 We may process your user account data (&quot; **account data**&quot;). The account data may include your account identifier, email address, username, account creation and modification dates, application settings and game progress. The primary source of the account data is you. If you log into our application using a social media account, we will obtain elements of the account data from the relevant social media account provider.
 
-3.4 We may process information relating to transactions, including purchases of goods and/or services, that you enter with us and/or through our application (&quot; **transaction data**&quot;). The transaction data may include the unique ID of the transaction, the amount, the product name. The source of the transaction data is Apple or Google, our payment services provider.
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [One Signal](https://onesignal.com/privacy_policy)
 
-3.5 We may process information contained in or relating to any communication that you send to us or that we send to you (&quot; **communication data**&quot;). The communication data may include the communication content and metadata associated with the communication.
 
-3.6 We may process data about your use of our application and services (&quot; **usage data**&quot;). The usage data may include your IP address, geographical location, device type and version, operating system, referral source, length of visit, screen views and application navigation paths, as well as information about the timing, frequency, and pattern of your service use. The source of the usage data is Google Analytics.
+# Log Data
 
-**4. Purposes of processing and legal bases**
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-4.1 In this Section 4, we have set out the purposes for which we may process personal data and the legal bases of the processing.
 
-4.2 **Operations** - We may process your personal data for the purposes of operating our application, the processing and fulfilment of orders, providing our services, supplying our goods, generating invoices, bills and other payment-related documentation, and credit control. The legal basis for this processing is our legitimate interests, namely the performance of a contract between you and us and/or taking steps, at your request, to enter such a contract.
+# Cookies
 
-4.3 **Relationships and communications** - We may process contact data, account data, transaction data and/or communication data for the purposes of managing our relationships, communicating with you (excluding communicating for the purposes of direct marketing) by email providing support services and complaint handling. The legal basis for this processing is our legitimate interests, namely communications with our users, individual customers and customer personnel, the maintenance of relationships, and the proper administration of our application, services, and business.
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-4.4 **Direct marketing** - We may process contact data, account data and/or transaction data for the purposes of creating, targeting, and sending direct marketing communications by email, push notifications. The legal basis for this processing is consent.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-4.5 **Research and analysis** - We may process usage data and/or transaction data for the purposes of researching and analysing the use of our application and services, as well as researching and analysing other interactions with our business. The legal basis for this processing is our legitimate interests, namely monitoring, supporting, improving, and securing our application, services, and business generally.
 
-4.6 **Record keeping** - We may process your personal data for the purposes of creating and maintaining our databases, back-up copies of our databases and our business records generally. The legal basis for this processing is our legitimate interests, namely ensuring that we have access to all the information we need to run our business properly and efficiently in accordance with this policy.
+# Service Providers
 
-4.7 **Security** - We may process your personal data for the purposes of security and the prevention of fraud and other criminal activity. The legal basis of this processing is our legitimate interests, namely the protection of our website, services and business, and the protection of others.
+I may employ third-party companies and individuals due to the following reasons:
 
-4.8 **Insurance and risk management** - We may process your personal data where necessary for the purposes of obtaining or maintaining insurance coverage, managing risks and/or obtaining professional advice. The legal basis for this processing is our legitimate interests, namely the proper protection of our business against risks.
 
-4.9 **Legal claims** - We may process your personal data where necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights, and the legal rights of others.
 
-4.10 **Legal compliance and vital interests** - We may also process your personal data where such processing is necessary for compliance with a legal obligation to which we are subject or in order to protect your vital interests or the vital interests of another natural person.
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
 
-**5. Providing your personal data to others**
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-5.1 Your personal data held in our application database will be stored on the servers of our hosting services providers Digital Ocean identified at [https://www.digitalocean.com](https://www.digitalocean.com/).
 
-5.2 We may disclose personal data to OneSignal identified at [https://onesignal.com](https://onesignal.com/) for push notifications.
+# Security
 
-5.3 Financial transactions relating to our application is handled by our payment services providers, _Google or Apple_. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments, and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers&#39; privacy policies and practices at [https://policies.google.com/privacy](https://policies.google.com/privacy) and [https://www.apple.com/legal/privacy/en-ww/](https://www.apple.com/legal/privacy/en-ww/).
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-5.4 In addition to the specific disclosures of personal data set out in this Section 5, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise, or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
 
-**6. International transfers of your personal data**
+# Links to Other Sites
 
-6.1 In this Section 6, we provide information about the circumstances in which your personal data may be transferred to countries outside the European Economic Area (EEA).
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-6.2 The hosting facilities for our application data are situated in Germany and USA. The competent data protection authorities have made an &quot;adequacy decision&quot; with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely the use of standard data protection clauses adopted or approved by the competent data protection authorities, a copy of which you can obtain from [https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/eu-us-data-transfers_en](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/eu-us-data-transfers_en)
 
-6.3 Push notifications supplier issituated in USA. The competent data protection authorities have made an &quot;adequacy decision&quot; with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely the use of standard data protection clauses adopted or approved by the competent data protection authorities, a copy of which can be obtained from [https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/eu-us-data-transfers_en](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/eu-us-data-transfers_en)
+# Children’s Privacy
 
-6.4 You acknowledge that your username may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
-**7. Retaining and deleting personal data**
 
-7.1 This Section 7 sets out our data retention policies and procedures, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.
+# Changes to This Privacy Policy
 
-7.2 Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-7.3 If you want to delete your personal data and/or account, we will make it anonymous so we can still retain information about it, but without any personal information that could link to you. Personal data deletion is permanent and cannot be reversed.
+This policy is effective as of 2021-02-21
 
-7.4 Notwithstanding the other provisions of this Section 7, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or to protect your vital interests or the vital interests of another natural person.
 
-**8. Your rights**
+# Contact Us
 
-8.1 In this Section 8, we have listed the rights that you have under data protection law.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at hello@memorablegame.com.
 
-8.2 Your principal rights under data protection law are:
-
-(a) **the right to access** - you can ask for copies of your personal data;
-
-(b) **the right to rectification** - you can ask us to rectify inaccurate personal data and to complete incomplete personal data;
-
-(c) **the right to erasure** - you can ask us to erase your personal data;
-
-(d) **the right to restrict processing** - you can ask us to restrict the processing of your personal data;
-
-(e) **the right to object to processing** - you can object to the processing of your personal data;
-
-(f) **the right to data portability** - you can ask that we transfer your personal data to another organisation or to you;
-
-(g) **the right to complain to a supervisory authority** - you can complain about our processing of your personal data; and
-
-(h) **the right to withdraw consent** - to the extent that the legal basis of our processing of your personal data is consent, you can withdraw that consent.
-
-8.3 These rights are subject to certain limitations and exceptions. You can learn more about the rights of data subjects by visiting [https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
-
-8.4 You may exercise any of your rights in relation to your personal data by written notice to us, using the contact details set out below.
-
-**9. Amendments**
-
-9.1 We may update this policy from time to time by publishing a new version on our website.
-
-9.2 You should check this page occasionally to ensure you are happy with any changes to this policy.
-
-9.3 We will notify you of significant changes to this policy by email.
-
-**10. Our details**
-
-10.1 This application is owned and operated by Jérémy Halin.
-
-10.2 We are registered in France under registration number 807687017, and our registered office is at Reims.
-
-10.3 Our principal place of business is at Reims.
-
-10.4 You can contact us by email, using hello@memorablegame.com
-
-**11. Data protection officer**
-
-11.1 Our data protection officer&#39;s contact details are: _dpo@memorablegame.com_
+This privacy policy page was created at[ privacypolicytemplate.net](https://privacypolicytemplate.net)<span style="text-decoration:underline;"> </span>and modified/generated by[ App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
